@@ -24,7 +24,7 @@
     "@taiyomoe/utils": "workspace:*",
     "file-type": "^19.6.0",
     "radash": "^12.1.0",
-    "sharp": "^0.33.5"
+    "sharp": "^0.35.4"
   },
   "devDependencies": {
     "@taiyomoe/tsconfig": "workspace:*"

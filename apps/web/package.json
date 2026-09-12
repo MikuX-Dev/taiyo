@@ -69,7 +69,7 @@
     "react-querybuilder": "^8.0.0",
     "react-select": "^5.9.0",
     "react-selectable-box": "^1.10.0",
-    "sharp": "^0.33.5",
+    "sharp": "^0.35.4",
     "sonner": "^1.7.1",
     "superjson": "^2.2.2",
     "tailwind-merge": "^2.6.0",
